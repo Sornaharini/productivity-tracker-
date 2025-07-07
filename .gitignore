@@ -1,0 +1,11 @@
+# Ignore backend secrets and node modules
+backend/node_modules/
+backend/.env
+
+# Ignore frontend build and dependencies
+frontend/node_modules/
+frontend/dist/
+
+# General
+.DS_Store
+.env
